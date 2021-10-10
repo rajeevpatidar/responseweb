@@ -1,0 +1,40 @@
+.services_box{
+    display: block;
+    margin: 0px 15%;
+    /* border: 2px solid red; */
+}
+.s_head{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    font-size: large;
+}
+
+.s_set{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px ,1fr));
+    /* grid-template-columns: repeat(3,auto); */
+    /* grid-gap: 10px; */
+    grid-row-gap: 30px;
+    flex-direction: row;
+    margin: 30px 0px;
+    /* height: 100vh; */
+    padding: 5px;
+    width: 100%;
+}
+
+/* card componenet css */
+.card_box{
+    margin: auto;
+    box-shadow: 2px 2px 3px 3px grey;
+    /* border: 2px solid red; */
+}
+.card_box:hover{
+    transform: scale(1.1,1.1);
+}
+.card_img{
+    width: 270px;
+    height: 270px;
+}
