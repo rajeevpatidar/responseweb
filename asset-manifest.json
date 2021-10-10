@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/responseweb/static/css/main.dbea157e.chunk.css",
+    "main.js": "/responseweb/static/js/main.33b942fb.chunk.js",
+    "main.js.map": "/responseweb/static/js/main.33b942fb.chunk.js.map",
+    "runtime-main.js": "/responseweb/static/js/runtime-main.bd260299.js",
+    "runtime-main.js.map": "/responseweb/static/js/runtime-main.bd260299.js.map",
+    "static/js/2.663447ce.chunk.js": "/responseweb/static/js/2.663447ce.chunk.js",
+    "static/js/2.663447ce.chunk.js.map": "/responseweb/static/js/2.663447ce.chunk.js.map",
+    "index.html": "/responseweb/index.html",
+    "static/css/main.dbea157e.chunk.css.map": "/responseweb/static/css/main.dbea157e.chunk.css.map",
+    "static/js/2.663447ce.chunk.js.LICENSE.txt": "/responseweb/static/js/2.663447ce.chunk.js.LICENSE.txt",
+    "static/media/Aboutus.678c8c84.png": "/responseweb/static/media/Aboutus.678c8c84.png",
+    "static/media/homeimg.5c38b990.png": "/responseweb/static/media/homeimg.5c38b990.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd260299.js",
+    "static/js/2.663447ce.chunk.js",
+    "static/css/main.dbea157e.chunk.css",
+    "static/js/main.33b942fb.chunk.js"
+  ]
+}
